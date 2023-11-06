@@ -13,7 +13,7 @@ $contacto = $result->fetch_assoc();
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#1755cf" />
     <!-- TITULO -->
-    <title>CONTACTO</title>
+    <title>CONTACT</title>
     <!-- FAV and TOUCH ICONS -->
     <link rel="shortcut icon" href="images/ico/favicon.ico">
     <link rel="apple-touch-icon" href="images/ico/apple-touch-icon.png">

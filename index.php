@@ -9,7 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#1755cf" />
 
-    <title>Abraham Alayon Morales</title>
+    <title>Abraham</title>
 
     <!-- FAVICON -->
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
